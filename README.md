@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text= klymori&fontSize=60&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=klymori&fontSize=60&animation=fadeIn&fontAlignY=35)
 
 # 👋 Привет, я klymori!
 
