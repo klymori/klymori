@@ -1,6 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Klymori&fontSize=60&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text= klymori&fontSize=60&animation=fadeIn&fontAlignY=35)
 
-# 👋 Привет, я Klymori!
+# 👋 Привет, я klymori!
 
 💻 Frontend Dev | 🚀 React, Redux, Vite  
 Я люблю создавать красивые и удобные веб-приложения, прокачиваю навыки в JavaScript и всегда стремлюсь к новым вершинам в разработке.  
