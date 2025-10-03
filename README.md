@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Привет, я Klymori!
 
-<!--
-**klymori/klymori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Dev | 🚀 React, Redux, Vite
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Мой стек:
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=fff&style=for-the-badge)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff&style=for-the-badge)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge)
+
+---
+
+## 📊 GitHub Статистика:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=klymori&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klymori&layout=compact&theme=tokyonight)
+
+---
+
+## 🐍 Анимация
+![snake gif](https://github.com/klymori/klymori/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Контакты
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/klymori)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:kaqqakat@gmail.com)
