@@ -2,7 +2,7 @@
 
 # 👋 Привет, я klymori!
 
-💻 Frontend Dev | 🚀 React, Redux, Vite  
+💻 Frontend Dev | 🚀 JS, React, Redux, Vite  
 Я люблю создавать красивые и удобные веб-приложения, прокачиваю навыки в JavaScript и всегда стремлюсь к новым вершинам в разработке.  
 
 ---
@@ -38,9 +38,6 @@
 
 ## 📊 GitHub Статистика:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=klymori&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klymori&layout=compact&theme=tokyonight)
-
 ---
 
 ## 🏆 Достижения:
